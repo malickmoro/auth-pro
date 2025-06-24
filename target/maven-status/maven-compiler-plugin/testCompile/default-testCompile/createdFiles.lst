@@ -1,0 +1,7 @@
+com/plutus/mvp/service/UserServiceTest.class
+com/plutus/mvp/service/RoleManagementServiceTest.class
+com/plutus/mvp/security/JWTUtilTest.class
+com/plutus/mvp/service/AuthServiceTest.class
+com/plutus/mvp/service/AuditServiceTest.class
+com/plutus/mvp/service/PasswordResetServiceTest.class
+com/plutus/mvp/service/UserVerificationServiceTest.class
